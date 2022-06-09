@@ -39,7 +39,7 @@ These value are the hash.
 You will notice that hash don't fit in our screen. To make the hash visible we have to change our resolution.
 In Kali.
 
-First use to see the default. 
+First Get the default value. 
 ```markdown
 xrandr 
 ```
